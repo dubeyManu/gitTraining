@@ -14,7 +14,7 @@ using System.Text;
 namespace CSharpPractical
 {
     // Custom named Exception
-    class FutureDateOfBirthException : Exception
+    class FutureDateOf BirthException : Exception
     {
         public FutureDateOfBirthException(string msg) : base(msg)
         {
